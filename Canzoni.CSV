@@ -1,0 +1,240 @@
+IDCANZONE,TITOLO,IDAUTORE,GENERE,POSIZIONE,ANNO
+5000,Grazie dei fiori,1,Classico melodico,1,1951
+5001,La luna si veste d'argento,2,Classico melodico,2,1951
+5002,Serenata a nessuno,3,Classico melodico,3,1951
+5003,Vola Colomba,1,Classico melodico,1,1952
+5004,Papaveri e papere,1,Classico melodico,2,1952
+5005,Una donna prega,1,Classico melodico,3,1952
+5006,Viale d'autunno,9,Classico melodico,1,1953
+5007,Campanaro,10,Classico melodico,2,1953
+5008,Lasciami cantare una canzone,11,Classico melodico,3,1953
+5009,Vecchio scarpone,12,Classico melodico,3,1953
+5010,Tutte le mamme,22,Classico melodico,1,1954
+5011,Canzone da due soldi,18,Classico melodico,2,1954
+5012,e la barca torno sola,23,Classico melodico,3,1954
+5013,Buongiorno tristezza,40,Classico melodico,1,1955
+5014,Il torrente,40,Classico melodico,2,1955
+5015,Canto nella valle,41,Classico melodico,3,1955
+5016,Aprite le finestre,54,Classico melodico,1,1956
+5017,Amami se vuoi,55,Classico melodico,2,1956
+5018,La vita e un paradiso di bugie,56,Classico melodico,3,1956
+5019,Corde della mia chitarra,63,Classico melodico,1,1957
+5020,Usignolo,64,Classico melodico,2,1957
+5021,Scusami,65,Classico melodico,3,1957
+5022,Nel blu dipinto di blu,81,Classico melodico,1,1958
+5023,L'edera,82,Classico melodico,2,1958
+5024,Amare un'altra,83,Classico melodico,3,1958
+5025,Piove (ciao ciao bambina),81,Classico melodico,1,1959
+5026,Io sono il vento,99,Classico melodico,2,1959
+5027,Conoscerti,100,Classico melodico,3,1959
+5028,Romantica,116,Classico melodico,1,1960
+5029,Libero,117,Classico melodico,2,1960
+5030,Quando vien la sera,118,Classico melodico,3,1960
+5031,24mila baci,134,Classico melodico,2,1961
+5032,Il mare nel cassetto,135,Classico melodico,3,1961
+5033,Al di la,133,Rock,1,1961
+5034,Addioaddio,157,Classico melodico,1,1962
+5035,Tango italiano,158,Classico melodico,2,1962
+5036,Gondoli gondola,159,Classico melodico,3,1962
+5037,Uno per tutte,160,Classico melodico,1,1963
+5038,Amor mon amour my love,187,Classico melodico,2,1963
+5039,Giovane giovane,188,Classico melodico,3,1963
+5040,Non ho l'eta (Per amarti),206,Classico melodico,1,1964
+5041,Che me ne importa a me,207,Classico melodico,2,1964
+5042,Come potrei dimenticarti,208,Classico melodico,2,1964
+5043,Ieri ho incontrato mia madre,209,Classico melodico,2,1964
+5044,La prima che incontro,210,Classico melodico,2,1964
+5045,Motivo d'amore,211,Classico melodico,2,1964
+5046,Ogni Volta,212,Classico melodico,2,1964
+5047,Quando vedrai la mia ragazza,213,Rock'n'roll ,2,1964
+5048,Sabato sera,214,Classico melodico,2,1964
+5049,Stasera no no no,215, Pop melodico,2,1964
+5050,Un bacio piccolissimo,216,Pop melodico,2,1964
+5051,Una lacrima sul viso,217,Pop melodico,2,1964
+5052,Se piangi se ridi,230,Pop melodico,1,1965
+5053,Abbracciami forte,231,Pop melodico,2,1965
+5054,Amici miei,232,Pop melodico,2,1965
+5055,Aspetta domani,233,Pop melodico,2,1965
+5056,Ho bisogno di vederti,234,Pop melodico,2,1965
+5057,Invece no,235,Pop melodico,2,1965
+5058,Io che non vivo (senza te),236,Pop melodico,2,1965
+5059,L'amore ha i tuoi occhi,237,Pop melodico,2,1965
+5060,Le colline sono in fiore,238,Pop melodico,2,1965
+5061,Prima o poi,239,Pop melodico,2,1965
+5062,Si vedra,240,Pop melodico,2,1965
+5063,Vieni con noi,241,Pop melodico,2,1965
+5064,Dio come ti amo,254,Classico melodico,1,1966
+5065,Nessuno mi puo giudicare,255, Pop giovanile,2,1966
+5066,In un fiore,256,Pop melodico,3,1966
+5067,Non pensare a me,279,Classico melodico,1,1967
+5068,Quando dico che ti amo,280,Pop melodico,2,1967
+5069,Proposta,281,Cantautorato,3,1967
+5070,Canzone per te,308,Pop melodico,1,1968
+5071,Casa bianca,309,Pop melodico,2,1968
+5072,Canzone,310,Pop melodico,3,1968
+5073,Zingara,332,Cantautorato,1,1969
+5074,Lontano dagli occhi,333,Pop melodico,2,1969
+5075,Un sorriso,334,Pop melodico,3,1969
+5076,Chi non lavora non fa l'amore,355,Cantautorato,1,1970
+5077,La prima cosa bella,356,Pop melodico,2,1970
+5078,L'arca di Noe,357,Pop melodico,3,1970
+5079,Il cuore e uno zingaro,381,Cantautorato,1,1971
+5080,Che sara,382,Pop melodico,2,1971
+5081,04-mar-43,383,Cantautorato,3,1971
+5082,I giorni dell'arcobaleno,404,Pop melodico,1,1972
+5083,Come le viole,405,Pop melodico,2,1972
+5084,Il re di denari,406,Pop melodico,3,1972
+5085,Un grande amore e niente piu,432,Pop melodico,1,1973
+5086,Come un ragazzino,405,Pop melodico,2,1973
+5087,Da troppo tempo,415,Pop melodico,3,1973
+5088,Ciao cara come stai?,454,Classico melodico,1,1974
+5089,Questa e la mia vita,417,Classico melodico,2,1974
+5090,Occhi rossi,455,Pop melodico,3,1974
+5091,Ragazza del sud,477,Pop melodico,1,1975
+5092,Ipocrisia,478,Pop melodico,2,1975
+5093,Va' speranza va',464,Pop melodico,2,1975
+5094,Non lo faccio piu,432,Pop melodico,1,1976
+5095,Come stai con chi sei,434,Pop melodico,2,1976
+5096,Gli occhi di tua madre,504,Pop melodico,3,1976
+5097,Volo AZ 504,505,Pop melodico,3,1976
+5098,Bella da morire,527,Pop rock,1,1977
+5099,Tu mi rubi l'anima,528,Pop melodico,2,1977
+5100,Monica,529,Pop melodico,3,1977
+5101,e dirsi ciao,532,Pop melodico,1,1978
+5102,Un'emozione da poco,534,Rock,2,1978
+5103,Gianna,535,Rock,3,1978
+5104,Amare,545,Pop melodico,1,1979
+5105,Quell'attimo in piu,547,Pop melodico,3,1979
+5106,Barbara,546,Pop ,2,1979
+5107,Solo noi,563,Pop melodico,1,1980
+5108,Ti voglio bene,564,Pop melodico,2,1980
+5109,Su di noi,565,Pop melodico,3,1980
+5110,Maledetta primavera,589,Pop melodico,2,1981
+5111,Tu cosa fai stasera?,590,Pop melodico,3,1981
+5112,Per Elisa,588,Rock,1,1981
+5113,Storie di tutti i giorni,469,Pop melodico,1,1982
+5114,Felicita,607,Pop melodico,2,1982
+5115,Soli,452,Pop melodico,3,1982
+5116,Sara quel che sara,631,Pop melodico,1,1983
+5117,Volevo dirti,632,Pop melodico,2,1983
+5118,Margherita non lo sa,633,Pop melodico,3,1983
+5119,Ci sara,607,Pop melodico,1,1984
+5120,Serenata,563,Pop melodico,2,1984
+5121,Cara,609,Pop melodico,3,1984
+5122,Se m'innamoro,414,Pop melodico,1,1985
+5123,Noi ragazzi di oggi,659,Pop melodico,2,1985
+5124,Chiamalo amore,412,Rock,3,1985
+5125,Il clarinetto,667,Pop melodico,2,1986
+5126,Senza un briciolo di testa,594,Pop melodico,3,1986
+5127,Adesso tu,660,Swing,1,1986
+5128,Si puo dare di piu,676,Pop melodico,1,1987
+5129,Figli,563,Pop melodico,2,1987
+5130,Nostalgia canaglia,607,Pop melodico,3,1987
+5131,Perdere l'amore,680,Pop melodico,1,1988
+5132,L'amore rubato,591,Pop melodico,3,1988
+5133,Emozioni,563,Rock,2,1988
+5134,Ti lascero,690,Pop melodico,1,1989
+5135,Cara terra mia,607,Pop melodico,3,1989
+5136,Le mamme,563,Rock,2,1989
+5137,Uomini soli,699,Pop melodico,1,1990
+5138,Gli amori,563,Pop melodico,2,1990
+5139,Vattene amore,700,Pop melodico,3,1990
+5140,Se stiamo insieme,706,Pop melodico,1,1991
+5141,Spalle al muro,707,Rock,2,1991
+5142,Perche lo fai,708,Rock,3,1991
+5143,Gli uomini non cambiano,613,Pop melodico,2,1992
+5144,La forza della vita,715,Pop melodico,3,1992
+5145,Portami a ballare,591,Rock,1,1992
+5146,Gli amori diversi,727,Pop melodico,3,1993
+5147,Mistero,657,Rock,1,1993
+5148,Dietro la porta,726,Rock,2,1993
+5149,Signor tenente,739,Cantautorato,2,1994
+5150,Passera,738,Pop melodico,1,1994
+5151,Strani amori,740,Pop melodico,3,1994
+5152,Come saprei,747,Pop soul,1,1995
+5153,In amore,748,Pop melodico,2,1995
+5154,Gente come noi,749,Pop melodico,3,1995
+5155,Vorrei incontrarti fra cent'anni,762,Pop melodico,1,1996
+5156,Strano il mio destino,747,Pop soul,3,1996
+5157,La terra dei cachi,763,Rock,2,1996
+5158,Fiumi di parole,775,Pop melodico,1,1997
+5159,Sei tu,776,Pop melodico,3,1997
+5160,Storie,534,Rock,2,1997
+5161,Senza te o con te,797,Pop melodico,1,1998
+5162,Sempre,799,Pop melodico,3,1998
+5163,Amore lontanissimo,798,Pop melodico ,2,1998
+5164,Cosi e la vita,714,Pop melodico,3,1999
+5165,Non ti dimentico (Se non ci fossero le nuvole),798,Pop melodico ,2,1999
+5166,Senza pieta,534,Rock,1,1999
+5167,Sentimento,805,Jazz ,1,2000
+5168,La tua ragazza sempre,811,Pop rock,2,2000
+5169,Innamorato,407,Pop melodico,3,2000
+5170,Di sole e d'azzurro,747,Pop soul,2,2001
+5171,Questa nostra grande storia d'amore,532,Pop melodico,3,2001
+5172,Luce (tramonti a nord est),817,Rock,1,2001
+5173,Dimmi come,824,Pop dance ,2,2002
+5174,Messaggio d'amore,532,Pop melodico,1,2002
+5175,Un altro amore,695,Cantautorato,3,2002
+5176,Tutto quello che un uomo,832,Jazz ,3,2003
+5177,Per dire di no,824,Pop soul,1,2003
+5178,7000 caffe,819,Rock,2,2003
+5179,L'uomo volante,708,Pop melodico,1,2004
+5180,Sei la vita mia,840,Pop melodico,2,2004
+5181,Aria sole terra e mare,841,Pop melodico,3,2004
+5182,Echi d'infinito,798,Pop melodico ,3,2005
+5183,Come noi nessuno al mondo,861,Pop melodico,2,2005
+5184,Angelo,827,Rock,1,2005
+5185,Vorrei avere il becco,880,Pop melodico,1,2006
+5186,Essere una donna,867,Pop melodico,3,2006
+5187,Dove si va,881,Rock,2,2006
+5188,Ti regalero una rosa,883,Cantautorato ,1,2007
+5189,Nel perdono,462,Pop melodico,2,2007
+5190,Schiavo d'amore,903,Pop lirico,3,2007
+5191,Colpo di fulmine,909,Lirico,1,2008
+5192,Il mio amico,867,Pop melodico,2,2008
+5193,Eppure mi hai cambiato la vita,910,Cantautorato,3,2008
+5194,Luca era gay,880,Cantautorato ,2,2009
+5195,La forza mia,916,Pop melodico,1,2009
+5196,Non riesco a farti innamorare,917,Pop melodico,3,2009
+5197,Italia amore mio,924,Lirico,2,2010
+5198,Per tutte le volte che,923,Pop melodico,1,2010
+5199,Credimi ancora,925,Rock,3,2010
+5200,Chiamami ancora amore,435,Cantautorato,1,2011
+5201,Arrivera,932,Pop rock,2,2011
+5202,Amanda e libera,462,Pop melodico,3,2011
+5203,La notte,929,Pop melodico,2,2012
+5204,Sono solo parole,926,Pop soul,3,2012
+5205,Non e l'inferno,940,Rock,1,2012
+5206,L'essenziale,925,Pop melodico,1,2013
+5207,Se si potesse non morire,876,Pop rock,3,2013
+5208,La canzone mononota,763,Rock,2,2013
+5209,Liberi o no,954,Jazz ,2,2014
+5210,Ora,955,Pop melodico,3,2014
+5211,Controvento,929,Pop melodico,1,2014
+5212,Adesso e qui (nostalgico presente),927,Jazz ,3,2015
+5213,Grande amore,960,Pop lirico,1,2015
+5214,Fatti avanti amore,779,Pop rock,2,2015
+5215,Un giorno mi dirai,658,Pop melodico,1,2016
+5216,Nessun grado di separazione,969,Pop melodico,2,2016
+5217,Via da qui,970,Pop melodico,3,2016
+5218,Occidentali's Karma,974,Pop dance ,1,2017
+5219,Che sia benedetta,598,Pop melodico ,2,2017
+5220,Vietato morire,975,Rock,3,2017
+5221,Una vita in vacanza,984,Electro pop ,2,2018
+5222,Il mondo prima di te,949,Pop melodico,3,2018
+5223,Non mi avete fatto niente,983,Rock,1,2018
+5224,I tuoi particolari,994,Pop melodico,2,2019
+5225,Musica che resta,960,Pop lirico,3,2019
+5226,Soldi,993,Trap,1,2019
+5227,Ringo Starr,1008, Rock,3,2020
+5228,Fai rumore,1007,Pop melodico,1,2020
+5229,Viceversa,974,Pop melodico,2,2020
+5230,Un milione di cose da dirti,975,Pop melodico,3,2021
+5231,Chiamami per nome,1021,Pop melodico ,2,2021
+5232,Zitti e buoni,1020,Rock alternativo,1,2021
+5233,O forse sei tu,817,Pop melodico,2,2022
+5234,Apri tutte le porte,407,Rock,3,2022
+5235,Brividi,1036,Pop,1,2022
+5236,Supereroi,1050,Rap,3,2023
+5237,Cenere,1049,Rap ,2,2023
+5238,Due vite,925,Pop melodico,1,2023
